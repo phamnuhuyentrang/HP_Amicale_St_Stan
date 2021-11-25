@@ -1,0 +1,36 @@
+[
+    {
+        "day": 12, 
+        "month": 10, 
+        "year": 2021,
+        "data": [
+            {
+                "firstname_wife": "claire",
+                "lastname_wife": "chantreau",
+                "promo_wife": 2003,
+                "firstname_husband": "paul",
+                "lastname_husband": "lemaire",
+                "promo_husband": null,
+                "place": "paris"
+            },
+            {
+                "firstname_wife": "lise",
+                "lastname_wife": "almar",
+                "promo_wife": 2003,
+                "firstname_husband": "antoine",
+                "lastname_husband": "lebaud",
+                "promo_husband": null,
+                "place": "paris"
+            },
+            {
+                "firstname_wife": "bénédicte",
+                "lastname_wife": "bellenger",
+                "promo_wife": null,
+                "firstname_husband": "pierre",
+                "lastname_husband": "seillier",
+                "promo_husband": 2003,
+                "place": "paris"
+            }
+        ]
+    }    
+]

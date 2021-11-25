@@ -1,0 +1,27 @@
+[
+    {
+        "day": 12, 
+        "month": 10, 
+        "year": 2021,
+        "data": [
+            {
+                "firstname": "paul",
+                "lastname": "lemaire",
+                "promo": 2003,
+                "place": "paris"
+            },
+            {
+                "firstname": "antoine",
+                "lastname": "leduc",
+                "promo": 2003,
+                "place": "paris"
+            },
+            {
+                "firstname": "paul",
+                "lastname": "vir",
+                "promo": 2003,
+                "place": "paris"
+            }
+        ]
+    }    
+]
